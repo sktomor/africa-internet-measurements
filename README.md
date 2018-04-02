@@ -1,5 +1,5 @@
 # Internet Measurements in Africa
-Thank you for your interest in joining this project. 👍🏾 🎊
+Thank you for your interest in joining this project. 👍🏾 🎊 We are excited to have you on board!
 
 <html>
   <img src="https://github.com/MsKiden/africa-internet-measurements/blob/master/images/internet-measurements.png"
