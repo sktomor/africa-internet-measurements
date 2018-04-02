@@ -1,4 +1,5 @@
 # Internet Measurements in Africa
+(/images/internet-measurements.png)
 
 Thank you for your interest to join in joining this project. Welcome!
 
@@ -38,6 +39,6 @@ The project is mentored by Bonface Ochieng.
 ++++++++++++++<br>
 Interested? Please feel free to contribute to the project and reach out on email: sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. 
 
-Looking forward to engaging with you and to your contribution and ideas to make this project even better. 
+Looking forward to engaging with you and to your contribution/ideas to make this project even better. 
 
-Welcome! 
+Welcome! 🎉🎊 
