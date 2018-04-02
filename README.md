@@ -1,5 +1,11 @@
 # Internet Measurements in Africa
-[[africa-internet-measurements/internet-measurements.png]]
+<a href="https://www.mozillascience.org/about">
+  <img
+    src=""
+    align="right"
+    width=140
+  </img>
+</a>
 
 Thank you for your interest to join in joining this project. Welcome!
 
