@@ -35,6 +35,10 @@ Measuring broadband performance increases market transparency as it gives consum
 ## How you can contribute
 We are looking for anyone interested in Internet performance, network engineers, people good at data analysis and data visualisation to make sense of test resuslts, web designers, people interested in Internet access issues and other professionals interested in the subject matter. 
 
+Take a look at these resources:
+* [Open Canvas[(africa-internet-measurements/Open Canvas-africa-internet-measurements-sk.pdf) to give you an overview of the project
+* Project Roadmap
+
 ## About Us and Contacts
 [Sarah](https://github.com/MsKiden) is a [2017/18 Ford-Mozilla Open Web Fellow](https://medium.com/read-write-participate/mozilla-announces-15-new-fellows-for-science-advocacy-and-media-1bff27e97fc7) hosted by [Research ICT Africa](https://researchictafrica.net/) in Cape Town, South Africa. She is a technologist who loves everything open source. 
 
@@ -43,6 +47,6 @@ The project is mentored by Bonface Ochieng.
 ++++++++++++++<br>
 Interested? Please feel free to contribute to the project and reach out on email: sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. 
 
-Looking forward to engaging with you and to your contribution/ideas to make this project even better. 
+Looking forward to engaging with you and to your contribution/ideas to make this project even better. Let's make the Internet better one measurement at a time. 
 
 Welcome! 🎉🎊 
