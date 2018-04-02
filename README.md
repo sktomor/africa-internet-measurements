@@ -1,7 +1,6 @@
 # Internet Measurements in Africa
 <html>
-  <img
-    src="africa-internet-measurements/images/internet-measurements.png"
+  <img src="https://github.com/MsKiden/africa-internet-measurements/blob/master/images/internet-measurements.png"
     align="left"
     width=140
   </img>
@@ -9,8 +8,7 @@
 Thank you for your interest to join in joining this project. Welcome!
 
 This README.md file explains the Broadband Perfomance and Internet Measurements in Africa, what inspired us to start and how you can get involved.
-<br>
-
+<br><br><br><br><br>
 * [Inspiration](#inspiration)
 * [Problem](#problem)
 * [Proposed Solution](#proposed-solution)
