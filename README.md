@@ -1,5 +1,5 @@
 # Internet Measurements in Africa
-[[ africa-internet-measurements/internet-measurements.png ]]
+[[africa-internet-measurements/internet-measurements.png]]
 
 Thank you for your interest to join in joining this project. Welcome!
 
