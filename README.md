@@ -2,11 +2,11 @@
 <html>
   <img src="https://github.com/MsKiden/africa-internet-measurements/blob/master/images/internet-measurements.png"
     align="left"
-    width=140
+    width=150
   </img>
 </html>
 <br><p>
-Thank you for your interest in joining this project. Welcome! 🎊
+Thank you for your interest in joining this project. 👍🏾🎊
 
 This README.md file explains the Broadband Perfomance and Internet Measurements in Africa, what inspired us to start and how you can get involved.
 <br><br><br>
