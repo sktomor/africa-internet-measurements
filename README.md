@@ -36,7 +36,7 @@ Measuring broadband performance increases market transparency as it gives consum
 We are looking for anyone interested in Internet performance, network engineers, people good at data analysis and data visualisation to make sense of test resuslts, web designers, people interested in Internet access issues and other professionals interested in the subject matter. 
 
 Take a look at these resources:
-* [Open Canvas](africa-internet-measurements/Open Canvas-africa-internet-measurements-sk.pdf) to give you an overview of the project
+* [Open Canvas](https://github.com/MsKiden/africa-internet-measurements/blob/master/Open%20Canvas-africa-internet-measurements-sk.pdf) to give you an overview of the project
 * Project Roadmap
 
 ## About Us and Contacts
