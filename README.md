@@ -5,9 +5,9 @@
     width=140
   </img>
 </html>
-<p>
+<br><p>
 Thank you for your interest in joining this project. Welcome! 🎊
-<br>
+
 This README.md file explains the Broadband Perfomance and Internet Measurements in Africa, what inspired us to start and how you can get involved.
 <br><br><br><br><br>
 * [Inspiration](#inspiration)
