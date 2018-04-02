@@ -47,6 +47,6 @@ The project is mentored by Bonface Ochieng.
 ++++++++++++++<br>
 Interested? Please feel free to contribute to the project and reach out on email: sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. 
 
-Looking forward to engaging with you and to your contribution/ideas to make this project even better. Let's make the Internet better one measurement at a time. 
+Looking forward to engaging with you and to your contribution/ideas to make this project even better. Let's make the Internet, better one measurement at a time. 
 
 Welcome! 👏🏾 🎉 🎊 
