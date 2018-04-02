@@ -6,7 +6,8 @@ This README.md file explains the Broadband Perfomance and Internet Measurements 
 
 * [Problem](#Problem)
 * [Proposed Solution](#Proposed-Solution)
-* [Why Internet Measurements](#How-you-can-contribute)
+* [Why Internet Measurements](#Why-Internet-Measurements)
+(#How-you-can-contribute)
 * [About Us and Contacts](#About-Us-and-Contacts) 
 
 ## Problem
