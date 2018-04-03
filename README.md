@@ -1,6 +1,9 @@
 # Internet Measurements in Africa
 Thank you for your interest in joining this project. 👍🏾 🎊 We are excited to have you on board!
 
+## Objective
+To work with researchers to collect and analyse Internet measurements data so that regulators and policy makers can develop policy that will help Internet Service Providers to improve service delivery and end users to make informed choices.
+
 <html>
   <img src="https://github.com/MsKiden/africa-internet-measurements/blob/master/images/internet-measurements.png"
     width=150
@@ -14,7 +17,8 @@ This README.md file explains the Broadband Perfomance and Internet Measurements 
 * [Proposed Solution](#proposed-solution)
 * [Why Internet Measurements](#why-internet-measurements)
 * [How you can contribute](#how-you-can-contribute)
-* [About Us and Contacts](#about-us-and-contacts) 
+* [About Us and Contacts](#about-us-and-contacts)
+* [MozSprint](#mozsprint)
 
 ## Inspiration
 The interest for this project developed while working on a conference paper as part of [Research ICT Africa](https://researchictafrica.net/)'s [Internet Measurements](https://researchictafrica.net/data/internet-measurements/) project. While developing the paper, it was very difficult to find published information on the subject. Collecting information from websites of regulators and Internet service providers of the 7 African countries identified for the project was very complex. Other issues, like which broadband provider to use, may seem complex because available information is based on personal preference, which may be biased sometimes. 
@@ -48,5 +52,11 @@ The project is mentored by Bonface Ochieng.
 Interested? Please feel free to contribute to the project and reach out on email: sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. 
 
 Looking forward to engaging with you and to your contribution/ideas to make this project even better. Let's make the Internet, better one measurement at a time. 
+
+## MozSprint
+Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
+
+![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
+
 
 Welcome! 👏🏾 🎉 🎊 
