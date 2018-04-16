@@ -16,12 +16,16 @@ This document ([CONTRIBUTING.md](https://github.com/MsKiden/africa-internet-meas
 Please take a look at the project [Code of Conduct](https://github.com/MsKiden/africa-internet-measurements/blob/master/CODE_OF_CONDUCT.md), which outlines our expectations for participants within the project. 
 
 ## What we are working on
-
-
-
-We are proposing to build an open data platform that contains Internet performance information and some analysis from the last 5 years (at least). This portal will contain information like number of subscribers (fixed, mobile), costs of Internet packages, coverage maps for 2G, 3G, 4G and fibre, some quality of service analysis in terms of graphs and charts, etc. We also plan to collect any papers written about the subject and add them as resources. The portal will be publically available.
+To get started, take a look at the issues in our [milestones](https://github.com/MsKiden/africa-internet-measurements/projects/1). Find an intersting issue to contribute to. 
 
 ## How to submit changes
+Once you have identified an issue that you would like to contribute to, please feel free to make a change to the project repository! To do this, 
+<ol>
+  <li> Fork this repository. This makes your own version of this project you can edit and use.
+  <li> Make your changes. This can be done in your GitHub interface or on your local machine.
+  <li> Once you are happy with your changes, submit a pull request. This opens a discussion around your project and lets the project lead know you are proposing changes. 
+    
+New to open source and GitHub? Check out this free series on how to contribute to an open source project on GitHub. 
 
 ## How to report bugs
 
