@@ -1,3 +1,4 @@
+# Code of Conduct
 This code of conduct outlines our expectations for participants within the Africa Internet measurements project. We are committed to ensuring that all contributors are welcome and comfortable as they work on this project. 
 
 While working on the project, please:
