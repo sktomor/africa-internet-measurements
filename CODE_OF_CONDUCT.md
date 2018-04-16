@@ -9,9 +9,9 @@ While working on the project, please:
 * Do not threaten violence
 * Empower others
 * Strive for excellence
-<br>
+
 # Reporting Issues
 If you experience or witness unacceptable behavior while working on the project, please notify sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. If possible, please include your contact infomation in the report to help us get back to you with feedback. 
-<br>
+<p>
 # Attribution & Acknowledgements
 The content in this Code of Conduct was adapted from [Open Code of Conduct](http://todogroup.org/opencodeofconduct/) (V1.0) and the [MozSprint repo](https://github.com/MsKiden/mozsprint-repo-template/blob/master/CODE_OF_CONDUCT.md). 
