@@ -37,7 +37,7 @@ Broadband speed has emerged as the single most commonly cited metric for charact
 Measuring broadband performance increases market transparency as it gives consumers choice before purchasing a service, helps providers to improve and regulators to have better policy while ensuring better service delivery. 
 
 ## How you can contribute
-We are looking for anyone interested in Internet performance, network engineers, people good at data analysis and data visualisation to make sense of test resuslts, web designers, people interested in Internet access issues and other professionals interested in the subject matter. 
+We are looking for anyone interested in Internet performance, network engineers, people good at data analysis and data visualisation to make sense of test results, web designers, people interested in Internet access issues and other professionals interested in the subject matter. 
 
 Take a look at these resources:
 * [Open Canvas](https://github.com/MsKiden/africa-internet-measurements/blob/master/Open%20Canvas-africa-internet-measurements-sk.pdf) to give you an overview of the project
