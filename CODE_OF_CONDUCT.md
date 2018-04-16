@@ -2,17 +2,8 @@
 This code of conduct outlines our expectations for participants within the Africa Internet measurements project. We are committed to ensuring that all contributors are welcome and comfortable as they work on this project. 
 
 While working on the project, please:
-pre, xmp, plaintext, listing {
-    white-space: pre;
-}
-.markdown-body pre > code {
-    white-space: pre;
-}
-.markdown-body code {
-    white-space: nowrap;
-}
-<pre><code>
-
+<ul>
+    
     - Be friendly and patient.
     - Be welcoming: We strive to welcome people from all backgrounds, which includes and is not limited to members of any race, colour,  ethnicity, culture, national origin, social and ecomonic class, education level, gender, age, size, immigration status, family status, political belief, religion, mental or physical ability.   
     - Be considerate: We are a community; that means your work can be used by others and you will also depnd on the work of others. Please be considerate when making decisions as they will affect everyone involved. Please also note that we speak different languages, so, as you communicate, you might not be communicating in someone else's primary language.
@@ -20,7 +11,7 @@ pre, xmp, plaintext, listing {
     - Do not threaten violence
     - Empower others
     - Strive for excellence
-</code></pre>
+</ul>
 
 If you experience or witness unacceptable behavior while working on the project, please notify sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. If possible, please include your contact infomation in the report to help us get back to you with feedback. 
 
