@@ -28,6 +28,7 @@ Once you have identified an issue that you would like to contribute to, please f
 New to open source? Check out this *free* series: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). 
 
 ## How to report bugs
+Please report bugs and lookout for any issues that can cause problems for the project. Bugs, requests and questions can be reported in our [issue tracker](https://github.com/MsKiden/africa-internet-measurements/projects/1). 
 
 ## Communication channels
 Please feel free to always suggest new ideas, edits, project improvements, etc. to sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. Once we generate interest in the project, we shall create a coomunication chat (Slack, Gitter, etc) using a tool that participants feel most comfortable with. 
