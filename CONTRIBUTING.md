@@ -24,8 +24,8 @@ Once you have identified an issue that you would like to contribute to, please f
   <li> [Fork](https://help.github.com/articles/fork-a-repo/) this repository. This makes your own version of this project you can edit and use.
   <li> [Make your changes](https://guides.github.com/activities/forking/#making-changes). This can be done in your GitHub interface or on your local machine.
   <li> Once you are happy with your changes, [submit a pull request](https://help.github.com/articles/searching-issues-and-pull-requests/). This opens a discussion around your project and lets the project lead know you are proposing changes. 
-    
-    New to open source and GitHub? Check out this free series: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). 
+
+New to open source? Check out this *free* series: [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github). 
 
 ## How to report bugs
 
