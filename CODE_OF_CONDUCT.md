@@ -2,7 +2,6 @@
 This code of conduct outlines our expectations for participants within the Africa Internet measurements project. We are committed to ensuring that all contributors are welcome and comfortable as they work on this project. 
 
 While working on the project, please:
-<ul>
     
     > Be friendly and patient.
     > Be welcoming: We strive to welcome people from all backgrounds, which includes and is not limited to members of any race, colour, >  ethnicity, culture, national origin, social and ecomonic class, education level, gender, age, size, immigration status, family status, political belief, religion, mental or physical ability.   
@@ -11,8 +10,7 @@ While working on the project, please:
     - Do not threaten violence
     - Empower others
     - Strive for excellence
-</ul>
-
+    
 If you experience or witness unacceptable behavior while working on the project, please notify sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. If possible, please include your contact infomation in the report to help us get back to you with feedback. 
 
 **Attribution & Acknowledgements**<br>
