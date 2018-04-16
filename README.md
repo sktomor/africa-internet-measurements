@@ -37,11 +37,15 @@ Broadband speed has emerged as the single most commonly cited metric for charact
 Measuring broadband performance increases market transparency as it gives consumers choice before purchasing a service, helps providers to improve and regulators to have better policy while ensuring better service delivery. 
 
 ## How you can contribute
-We are looking for anyone interested in Internet performance, network engineers, people good at data analysis and data visualisation to make sense of test results, web designers, people interested in Internet access issues and other professionals interested in the subject matter. 
+We are looking for anyone interested in Internet performance, network engineers, people good at data analysis and data visualisation to make sense of test results, web designers, people interested in Internet access issues and other professionals interested in the subject matter. Please look at the [CONTRIBUTING.md](https://github.com/MsKiden/africa-internet-measurements/blob/master/CONTRIBUTING.md) on details on how you can contribute. 
 
 Take a look at these resources:
 * [Open Canvas](https://github.com/MsKiden/africa-internet-measurements/blob/master/Open%20Canvas-africa-internet-measurements-sk.pdf) to give you an overview of the project
-* Project Roadmap
+* [Project Roadmap](https://github.com/MsKiden/africa-internet-measurements/projects/1)
+* Project [Code of Conduct](https://github.com/MsKiden/africa-internet-measurements/blob/master/CODE_OF_CONDUCT.md)
+* [Project maintenance](https://github.com/MsKiden/africa-internet-measurements/blob/master/MAINTENANCE.md)
+
+The project is licensed under the MIT license for software/code related content and CC-BY-4.0 for non-software/code related content. See details [here](https://github.com/MsKiden/africa-internet-measurements/blob/master/LICENSE).
 
 ## About Us and Contacts
 [Sarah](https://github.com/MsKiden) is a [2017/18 Ford-Mozilla Open Web Fellow](https://medium.com/read-write-participate/mozilla-announces-15-new-fellows-for-science-advocacy-and-media-1bff27e97fc7) hosted by [Research ICT Africa](https://researchictafrica.net/) in Cape Town, South Africa. She is a technologist who loves everything open source. 
