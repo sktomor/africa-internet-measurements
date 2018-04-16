@@ -42,7 +42,7 @@ We are looking for anyone interested in Internet performance, network engineers,
 Take a look at these resources:
 * [Open Canvas](https://github.com/MsKiden/africa-internet-measurements/blob/master/Open%20Canvas-africa-internet-measurements-sk.pdf) to give you an overview of the project
 * [Project Roadmap](https://github.com/MsKiden/africa-internet-measurements/projects/1)
-* Project [Code of Conduct](https://github.com/MsKiden/africa-internet-measurements/blob/master/CODE_OF_CONDUCT.md)
+* [Project Code of Conduct](https://github.com/MsKiden/africa-internet-measurements/blob/master/CODE_OF_CONDUCT.md)
 * [Project maintenance](https://github.com/MsKiden/africa-internet-measurements/blob/master/MAINTENANCE.md)
 
 The project is licensed under the MIT license for software/code related content and CC-BY-4.0 for non-software/code related content. See details [here](https://github.com/MsKiden/africa-internet-measurements/blob/master/LICENSE).
