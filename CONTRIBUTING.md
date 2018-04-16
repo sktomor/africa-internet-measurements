@@ -8,7 +8,7 @@ This document ([CONTRIBUTING.md](https://github.com/MsKiden/africa-internet-meas
 
 * [Participant guidelines](#participant-guidelines)
 * [What we are working on](#what-we-are-working-on)
-* [How to submit changes](how-to-submit-changes)
+* [How to submit changes](#how-to-submit-changes)
 * [How to report bugs](#how-to-report-bugs)
 * [Communication channels](#communication-channels)
 
@@ -20,6 +20,7 @@ Please take a look at the project [Code of Conduct](https://github.com/MsKiden/a
 
 
 We are proposing to build an open data platform that contains Internet performance information and some analysis from the last 5 years (at least). This portal will contain information like number of subscribers (fixed, mobile), costs of Internet packages, coverage maps for 2G, 3G, 4G and fibre, some quality of service analysis in terms of graphs and charts, etc. We also plan to collect any papers written about the subject and add them as resources. The portal will be publically available.
+
 ## How to submit changes
 
 ## How to report bugs
