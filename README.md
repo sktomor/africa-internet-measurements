@@ -2,7 +2,7 @@
 
 Thank you for your interest to join in joining this project. Welcome!
 
-This README.md file explains the Broadband Perfomance and Internet Measurements in Africa, what inspired us to start and how you can get involved. 
+This README explains the Broadband Perfomance and Internet Measurements in Africa, what inspired us to start and how you can get involved. 
 
 * [Inspiration](#inspiration)
 * [Problem](#problem)
