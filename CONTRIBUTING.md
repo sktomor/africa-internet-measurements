@@ -18,6 +18,14 @@ Please take a look at the project [Code of Conduct](https://github.com/MsKiden/a
 ## What we are working on
 To get started, take a look at the issues in our [milestones](https://github.com/MsKiden/africa-internet-measurements/projects/1). Find an intersting issue to contribute to. 
 
+Since many people use the Internet, anyone can be part of the project. 
++ End users can contribute by downloading one of the many speed test applications and testing their broadband speeds. I am currently working with Netradar, SpeedChecker, Princeton University’s Speed Test. These vendors have generously agreed to provide raw data to Research ICT Africa, containing anonymous tests conducted in Africa for the period 2013 - 2018. Network engineers are also welcome to conduct tests on their networks and share findings. 
++	Researchers can help with finding relevant documentation about the subject matter, especially in the region. This includes journals, articles, publications, portals, and other case studies that we can learn from.
++ Data visualisation experts can help interpret the data in a way that makes sense to different audiences: end users, regulators, service providers. Maps, graphs, charts are preferable, but other tools are welcome. 
++ Open data experts or web designers can give guidance on how to develop an interactive and open data portal that will contain this information. Take a look at [this presentation](https://researchictafrica.net/wp/wp-content/uploads/2018/05/AIS18_performance-panel-vFinal-Draft.pdf) to see some sample results. 
++ Anyone interested in Internet measurements is welcome to give guidance or work with us to build a community of people interested in the subject and to develop a solution. 
+
+
 ## How to submit changes
 Once you have identified an issue that you would like to contribute to, please feel free to make a change to the project repository! To do this, 
 
@@ -31,4 +39,4 @@ New to open source? Check out this *free* series: [How to Contribute to an Open 
 Please report bugs and lookout for any issues that can cause problems for the project. Bugs, requests and questions can be reported in our [issue tracker](https://github.com/MsKiden/africa-internet-measurements/projects/1). We shall be updating this document with details about reporting bugs. 
 
 ## Communication channels
-Please feel free to always suggest new ideas, edits, project improvements, etc. to sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. Once we generate interest in the project, we shall create a coomunication chat (Slack, Gitter, etc) using a tool that participants feel most comfortable with. 
+Please feel free to always suggest new ideas, edits, project improvements, etc. to sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. Once we generate interest in the project, we shall create a coomunication chat (Slack, Gitter, etc) using a tool that participants feel most comfortable with. Also feel free to connect through Twitter (@MsKiden)!
