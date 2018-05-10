@@ -39,6 +39,8 @@ Measuring broadband performance increases market transparency as it gives consum
 ## How you can contribute
 We are looking for anyone interested in Internet performance, network engineers, people good at data analysis and data visualisation to make sense of test results, web designers, people interested in Internet access issues, other professionals interested in the subject matter and end users. Please look at the [CONTRIBUTING.md](https://github.com/MsKiden/africa-internet-measurements/blob/master/CONTRIBUTING.md) on details on how you can contribute. 
 
+We also created a Gitter chat room. Feel free to reach out through [this link](https://gitter.im/Africa-Internet-measurements/Lobby#).
+
 Take a look at these resources:
 * [Open Canvas](https://github.com/MsKiden/africa-internet-measurements/blob/master/Open%20Canvas-africa-internet-measurements-sk.pdf) to give you an overview of the project
 * [Project Roadmap](https://github.com/MsKiden/africa-internet-measurements/projects/1)
@@ -52,7 +54,7 @@ The project is licensed under the MIT license for software/code related content 
 
 The project is mentored by Bonface Ochieng. Guidance from Enrico Calandro and Steve Song is also much appreicated. 
 
-++++++++++++++<br>
+----------------<br>
 Interested? Please feel free to contribute to the project and reach out on email: sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. 
 
 Looking forward to engaging with you and to your contribution/ideas to make this project even better. Let's make the Internet better, one measurement at a time. 
@@ -63,5 +65,3 @@ Welcome! 👏🏾 🎉 🎊
 Join us at the [Mozilla's Global Sprint](http://mzl.la/global-sprint/) May 10-11, 2017! We'll be gathering in-person at sites around the world and online to collaborate on this project and learn from each other. [Get your #mozsprint tickets now](http://mzl.la/global-sprint/)!
 
 ![Global Sprint](https://user-images.githubusercontent.com/617994/37716586-3b0397a0-2cf5-11e8-8c6f-bad01f67f50e.jpg)
-
-We created a Gitter chat room. Feel free to reach out through [this link](https://gitter.im/Africa-Internet-measurements/Lobby#).
