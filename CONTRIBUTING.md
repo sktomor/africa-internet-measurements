@@ -11,6 +11,7 @@ This document (CONTRIBUTING.md) is a set of guidelines for contributing to the p
 * [How to submit changes](#how-to-submit-changes)
 * [How to report bugs](#how-to-report-bugs)
 * [Communication channels](#communication-channels)
+* [Acknowledgements](#acknowledgements)
 
 ## Participant guidelines
 Please take a look at the project [Code of Conduct](https://github.com/MsKiden/africa-internet-measurements/blob/master/CODE_OF_CONDUCT.md), which outlines our expectations for participants within the project. 
@@ -40,3 +41,6 @@ Please report bugs and lookout for any issues that can cause problems for the pr
 
 ## Communication channels
 Please feel free to always suggest new ideas, edits, project improvements, etc. to sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. We have a [Gitter chat room](https://gitter.im/Africa-Internet-measurements/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link) which you can join for further disucssion. If you have suggestions about better communication channels, do let us know! Also feel free to connect through Twitter (@MsKiden)!
+
+## Acknowledgements
+We would like to thank Mary Anna Sadimba and Carlos Nyaga for contributing to the project during the MozSprint and offering to build a portal showing service providers in particular countries! They also agreed to continue working on the project after #MozSprint. 
