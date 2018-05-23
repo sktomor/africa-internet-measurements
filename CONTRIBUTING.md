@@ -46,4 +46,16 @@ Please feel free to always suggest new ideas, edits, project improvements, etc. 
 >>>>>>> 78500beaafd3bed2f2c63a13bbd703dfa990a175
 
 ## Acknowledgements
-We would like to thank Mary Anna Sadimba and Carlos Nyaga for contributing to the project during the MozSprint and offering to build a portal showing service providers in particular countries! They also agreed to continue working on the project after #MozSprint. 
+We would like to thank everyone who contributed to the project from inception. First to Abby Cabunoc Mayes, Zannah and the Mozilla Open Leaders Team, Bonface Ochieng for mentoring the project and Enrico Calandro for overall supervision during the Ford-Mozilla Open Web Fellowship experience.
+
+Much appreciation goes to the following people for contributing before, during and after the #MozSprint:
+ + Sight Ampamya
+ + Isaac Maposa
+ + Rushmore Mushambi
+ + Alex Mwotil
+ + Mary Anna Sadimba
+ + Carlos Nyanga
+ + Ravindu Perera
+ + Catherine Kang'ethe
+
+Mary, Carlos and Ravindu offered to build a portal containing service providers. They also agreed to continue working on the project after #MozSprint. 
