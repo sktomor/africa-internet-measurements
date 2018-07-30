@@ -44,7 +44,7 @@ Please feel free to always suggest new ideas, edits, project improvements, etc. 
 >>>>>>> 78500beaafd3bed2f2c63a13bbd703dfa990a175
 
 ## Acknowledgements
-We would like to thank everyone who contributed to the project from inception. First to Abby Cabunoc Mayes, Zannah and the Mozilla Open Leaders Team, Bonface Ochieng for mentoring the project and Enrico Calandro for overall supervision during the Ford-Mozilla Open Web Fellowship experience.
+We would like to thank everyone who contributed to the project from inception. First to Abby Cabunoc Mayes, Zannah and the Mozilla Open Leaders Team, Bonface Ochieng for mentoring the project and Enrico Calandro (and the Research ICT Africa team) for overall supervision during the Ford-Mozilla Open Web Fellowship experience.
 
 Much appreciation goes to the following people for contributing before, during and after the #MozSprint:
  + Sight Ampamya
