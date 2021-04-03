@@ -52,7 +52,7 @@ The project is licensed under the MIT license for software/code related content 
 ## About Us and Contacts
 [Sarah](https://github.com/MsKiden) is a [2017/18 Ford-Mozilla Open Web Fellow](https://medium.com/read-write-participate/mozilla-announces-15-new-fellows-for-science-advocacy-and-media-1bff27e97fc7) hosted by [Research ICT Africa](https://researchictafrica.net/) in Cape Town, South Africa. She is a technologist who loves everything open source. 
 
-The project is mentored by Bonface Ochieng. Guidance from Enrico Calandro and Steve Song is also much appreicated. 
+The project is supervised by Enrico Calandro. During the Mozilla Open Leadership training, the project was mentored by Bonface Ochieng. Guidance from Steve Song is also much appreicated. 
 
 ----------------<br>
 Interested? Please feel free to contribute to the project and reach out on email: sarahk(at)mozillafoundation(dot)org or skiden(at)gmail(dot)com. 
